@@ -325,7 +325,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 .row0, .row0 a{color:#FFFFFF; background-color:#0E74A5;}
 .row1{color:#474747; background-color:#FFFFFF;}
 .row2{color:#474747; background-color:#F4F4F4;}
-.row3{color:#474747; background-color:#FFFFFF;}
+.row3{color:#474747; background-color:#F4F4F4;}
 .row4{color:#474747; background-color:#FFFFFF;}
 .row5, .row5 a{color:#474747; background-color:#FFFFFF;}
 .row5{border-color:rgba(0,0,0,.1);}
@@ -495,6 +495,32 @@ table a, #comments a{background-color:inherit;}
 
 	.font-x2{font-size:1.4rem;}
 	.font-x3{font-size:1.6rem;}
+}
+
+#map {
+  height: 200px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
+#map1 {
+  height: 200px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+#map2 {
+  height: 200px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+#map3 {
+  height: 200px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
 }
 
 
