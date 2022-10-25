@@ -542,28 +542,6 @@ table a, #comments a{background-color:inherit;}
   display: none;
 }
 
-/* forward & Back buttons */
-.Back, .forward {
-  cursor: pointer;
-  position: absolute;
-  top: 48%;
-  width: auto;
-  margin-top: -23px;
-  padding: 17px;
-  color: grey;
-  font-weight: bold;
-  font-size: 19px;
-  transition: 0.4s ease;
-  border-radius: 0 5px 5px 0;
-  user-select: none;
-}
-
-/* Place the "forward button" to the right */
-.forward {
-  right: 0;
-  border-radius: 4px 0 0 4px;
-}
-
 /*when the user hovers,add a black background with some little opacity */
 .Back:hover, .forward:hover {
   background-color: rgba(0,0,0,0.8);
