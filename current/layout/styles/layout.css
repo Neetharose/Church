@@ -537,6 +537,10 @@ table a, #comments a{background-color:inherit;}
   margin: auto;
 }
 
+.slideshow-container .img {
+	height:700px;
+}
+
 /* Make the images invisible by default */
 .Containers {
   display: none;
