@@ -327,7 +327,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#F4F4F4;}
 .row4{color:#474747; background-color:#FFFFFF;}
-.row5, .row5 a{color:#474747; background-color:#FFFFFF;}
+.row5, .row5 a{color:#00008B; background-color:#FFFFFF;}
 .row5{border-color:rgba(0,0,0,.1);}
 
 .gradient{color:#FFFFFF; background:linear-gradient(to bottom right, #0E74A5, #4FB5F5);}
